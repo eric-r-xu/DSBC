@@ -56,7 +56,7 @@ From the table, the studios
 - MGM 
 
 
-all have <u>at least<u> 10 horror films distributed.  These will be the experienced horror film studios.  To help my client choose the most successful of these experienced studios and avoid others, I created dummy variables for these 10 top horror studios and one for all other studios for the regression to predict gross. 
+all have at least 10 horror films distributed.  These will be the experienced horror film studios.  To help my client choose the most successful of these experienced studios and avoid others, I created dummy variables for these 10 top horror studios and one for all other studios for the regression to predict gross. 
 
 
 4.  The month of release of the film is a factor I would like to advise my client on.  The following is a table showing the domestic gross information with respect to the month of release of the movie:
