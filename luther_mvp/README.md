@@ -1,8 +1,8 @@
-Eric Xu -- luther MVP submission -- 9/16/2014 -- Summary of Progress
+<b>Eric Xu -- luther MVP submission -- 9/16/2014 -- Summary of Progress<b>
 
 Client : A horror filmmaker
 
-Client’s request :  What factors should I consider to increase the total domestic gross of the movie I create?
+Client’s request :  How can I increase the total domestic gross of the movie I create?
 
 Dataset : All films from BoxOfficeMojo with keyword "Horror":
 
@@ -17,15 +17,16 @@ Dataset : All films from BoxOfficeMojo with keyword "Horror":
   - Sci-Fi Horror
 
 Features (to choose from in dataset) : 
-  -domestic total gross (raw and logged)
-  -adjusted total gross (raw and logged) based on number of months since release
-  -studio
-  -number of theaters at widest release
-  -budget
-  -month and season of release
-  -year of release
-  -movie rating (e.g. PG)
-  -runtime
+
+  - domestic total gross (raw and logged)
+  - adjusted total gross (raw and logged) based on number of months since release
+  - studio
+  - number of theaters at widest release
+  - budget
+  - month and season of release
+  - year of release
+  - movie rating (e.g. PG)
+  - runtime
 
 
 
