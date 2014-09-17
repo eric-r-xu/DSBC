@@ -55,6 +55,8 @@ From the table, the studios
 - Buena Vista
 - Weinstein/Dimension
 - MGM 
+
+
 all have at least 10 horror films distributed.  These will be the experienced horror film studios.  To help my client choose the most successful of these experienced studios and avoid others, I created dummy variables for these 10 top horror studios and one for all other studios for the regression to predict gross. 
 
 
