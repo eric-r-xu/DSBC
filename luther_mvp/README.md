@@ -1,4 +1,4 @@
-<b>Eric Xu -- luther MVP submission -- 9/16/2014 -- Summary of Progress<b>
+<b>Eric Xu -- luther MVP submission -- 9/17/2014 -- Summary of Progress<b>
 
 Client : A horror filmmaker planning a wide release film and is in the process of choosing a distributor/studio.
 
@@ -39,7 +39,6 @@ By changing this dependent measure to the log of the total domestic gross, we ca
 2.  A wide release movie plays at 600 theaters or more at its widest release (http://www.boxofficemojo.com/about/boxoffice.htm ).  Because my client is planning a wide release movie, movies released at less than 600 theaters in its widest release will not be used in the regression. The following is a histogram of the number of theaters at each wide release horror movie:
 ![](./img/TheaterNumberHist.png)
 
-
 3.  The client is only interested in the top studios for distribution.  The client claims that (1) the studio's experience can be a great asset in increasing gross and (2) studios without much experience carry a lot of risk and can simply be lucky.  The following is a table showing the studios making the most horror films as well as domestic total gross information:
 ![](./img/Studio_Table.png)
 
@@ -57,9 +56,31 @@ From the table, the studios
 - MGM 
 
 
-all have at least 10 horror films distributed.  These will be the experienced horror film studios.  To help my client choose the most successful of these experienced studios and avoid others, I created dummy variables for these 10 top horror studios and one for all other studios for the regression to predict gross. 
+all have <u>at least<u> 10 horror films distributed.  These will be the experienced horror film studios.  To help my client choose the most successful of these experienced studios and avoid others, I created dummy variables for these 10 top horror studios and one for all other studios for the regression to predict gross. 
+
+
+4.  The month of release of the film is a factor I would like to advise my client on.  The following is a table showing the domestic gross information with respect to the month of release of the movie:
+![](./img/Month_Table.png)
+
+
+From the table, the months ...
+
+
+5.  The runtime does not significantly affect the film's gross.
 
 
 
+6.  The specific genre of the filmmaker's horror film is another feature I would like to advise my client on.  These are the specific horror genres:
+  - Period
+  - Slasher
+  - Supernatural
+  - Terror in the Water
+  - Torture
+  - Anthology
+  - Comedy
+  - Remake
+  - Sci-Fi
 
+
+The following is a table showing the domestic gross information with respect to the specific horror genre:
 
