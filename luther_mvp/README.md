@@ -20,7 +20,6 @@ Features (to choose from in dataset) :
 
   - domestic total gross 
   - log domestic total gross
-  - adjusted total gross (raw and logged) based on number of months since release
   - studio
   - number of theaters at widest release
   - budget
@@ -41,11 +40,22 @@ By changing this dependent measure to the log of the total domestic gross, we ca
 ![](./img/TheaterNumberHist.png)
 
 
-3.  The client is only interested in the top studios for distribution.  The client claims that (1) the studio's experience can be a great asset in increasing gross and (2) studios without much experience carry a lot of risk and can simply be lucky.  The following is a table showing the studios making the most horror films as well as the mean of the log total domestic gross of all the studio's horror films:
-![](./img/tableStudioCount.png)
+3.  The client is only interested in the top studios for distribution.  The client claims that (1) the studio's experience can be a great asset in increasing gross and (2) studios without much experience carry a lot of risk and can simply be lucky.  The following is a table showing the studios making the most horror films as well as domestic total gross information:
+![](./img/Studio_Table.png)
 
 
-From the table, Universal, Sony, Warner Bros, Fox, Paramount, New Line, and Lionsgate are all experienced horror studios with at least 20 horror films distributed.  To help my client choose the most successful horror studio and avoid others, I created dummy variables for these 7 top horror studios and one for all other studios for the regression.  
+From the table, the studios 
+- Universal
+- Sony
+- Warner Bros
+- Fox
+- Paramount
+- Lionsgate
+- New Line
+- Buena Vista
+- Weinstein/Dimension
+- MGM 
+all have at least 10 horror films distributed.  These will be the experienced horror film studios.  To help my client choose the most successful of these experienced studios and avoid others, I created dummy variables for these 10 top horror studios and one for all other studios for the regression to predict gross. 
 
 
 
