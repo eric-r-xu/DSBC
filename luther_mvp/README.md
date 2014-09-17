@@ -59,17 +59,17 @@ From the table, the studios
 all have at least 10 horror films distributed.  These will be the experienced horror film studios.  To help my client choose the most successful of these experienced studios and avoid others, I created dummy variables for these 10 top horror studios and one for all other studios for the regression to predict gross. 
 
 
-4.  The month of release of the film is a factor I would like to advise my client on.  The following is a table showing the domestic gross information with respect to the month of release of the movie:
+The month of release of the film is a factor I would like to advise my client on.  The following is a table showing the domestic gross information with respect to the month of release of the movie:
 
 
 From the table, the months ...
 
 
-5.  The runtime does not significantly affect the film's gross.
+The runtime does not significantly affect the film's gross.
 
 
 
-6.  The specific genre of the filmmaker's horror film is another feature I would like to advise my client on.  These are the specific horror genres:
+The specific genre of the filmmaker's horror film is another feature I would like to advise my client on.  These are the specific horror genres:
   - Period
   - Slasher
   - Supernatural
