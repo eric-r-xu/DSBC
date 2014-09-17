@@ -60,7 +60,6 @@ all have <u>at least<u> 10 horror films distributed.  These will be the experien
 
 
 4.  The month of release of the film is a factor I would like to advise my client on.  The following is a table showing the domestic gross information with respect to the month of release of the movie:
-![](./img/Month_Table.png)
 
 
 From the table, the months ...
