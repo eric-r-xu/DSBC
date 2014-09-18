@@ -62,6 +62,7 @@ The month of release of the film is a factor I would like to advise my client on
 ![](./img/Month_Table.png)
 
 From the table, June horror films have the highest mean domestic gross.  Using a regression with month of release and theater number, we find that June is a great month to release the horror film but January and April are bad months. 
+
 ![](./img/New Month_Theater_Stats.png)
 
 
