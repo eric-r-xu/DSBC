@@ -1,5 +1,5 @@
 <b>1.  Who is your client / user / audience ?</b>
-<u>Audience:<u>
+<br><u>Audience:<u>
 I want my project to be accessible and interesting to everyone and not just foodies and/or restauranteurs.  I believe most people receive some type of enjoyment out of nice restaurants, and we all need food to survive.   I'd like to make something that would be interesting for yelp (since that is where I am pulling data from), fivethirtyeight, the national restaurants news (nrn.com), and the tourism industry in general.
 
 <b>2.  What is the central question your project addresses?</b>
