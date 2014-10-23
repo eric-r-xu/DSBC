@@ -3,17 +3,17 @@
 I want my project to be accessible and interesting to everyone and not just foodies and/or restauranteurs.  I believe most people receive some type of enjoyment out of nice restaurants, and we all need food to survive.   I'd like to make something that would be interesting for yelp (since that is where I am pulling data from), fivethirtyeight, the national restaurants news (nrn.com), and the tourism industry in general.
 
 <b>2.  What is the central question your project addresses?</b>
-<u>Central question:<u>
+<br><u>Central question:<u>
 What should I eat of a particular type of cuisine in a particular city?
 
 <b>3.  What is theme of your project?
 What would make a good, informative title (or subtitle) for your project?
 Write a prioritized list of more specific sub-questions, if applicable, or an elaboration of the central question.</b>
-"CuisinArt & Data"
-Question breakdown:
-Out of 119 different types of ethnic cuisine, what types of cuisines and dishes are rated the highest in the top 10 most populated cities in the U.S.?  What are common comments given to each type of cuisine and are there differences between cities?
+<br>"CuisinArt & Data"
+<br>Question breakdown:
+<br>Out of 119 different types of ethnic cuisine, what types of cuisines and dishes are rated the highest in the top 10 most populated cities in the U.S.?  What are common comments given to each type of cuisine and are there differences between cities?
 
-
+<br>
 <b>4a. What data will you use to address the question, from which source(s)?</b>
 
 4.. b. How will you acquire the data?
