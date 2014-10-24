@@ -14,16 +14,17 @@ Write a prioritized list of more specific sub-questions, if applicable, or an el
 <br>"CuisinArt: Cuisine, Art, and Data about Ethnic Cuisine in the U.S"
 <br>Question breakdown:
 <br>Out of 119 different types of ethnic cuisine, what types of cuisines and dishes are rated the highest in the top 10 most populated cities in the U.S.?  What are common comments given to each type of cuisine and are there differences between cities?
-
 <br>
 <b>4a. What data will you use to address the question, from which source(s)?</b>
-<br>
-
+<br>I will use restaurant data from yelp (www.yelp.com)
 <br>
 <b>4.. b. How will you acquire the data?</b>
-<br>
+<br>I will acquire using the yelpAPI as well as scraping comments on yelp using Python's 'requests' package
+
 <b>4.. c. How much data will there be?</b>
-<br>
+<br>There will be data from 40 top restaurants per category of cuisine per city, 119 different categories of cuisine, and 
+10 cities.  Each restaurant will have an overall yelp rating and number of ratings as well as the top 5 positive comments and the top 5 negative comments.  Each comment will also have its own rating score.  Thus, I will have upwards to 47,600 restaurants in my dataset and upwards to 476,000 comments from all these restaurants combined.
+
 <b>4.. d. How will you organize and store the data?</b>
 <br>
 5.  How will you approach the analysis of your data? 
