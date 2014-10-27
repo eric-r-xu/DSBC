@@ -25,13 +25,17 @@ Write a prioritized list of more specific sub-questions, if applicable, or an el
 <br>There will be data from 40 top restaurants per category of cuisine per city, 119 different categories of cuisine, and 
 10 cities.  Each restaurant will have an overall yelp rating and number of ratings as well as the top 5 positive comments and the top 5 negative comments.  Each comment will also have its own rating score.  Thus, I will have upwards to 47,600 restaurants in my dataset and upwards to 476,000 comments from all these restaurants combined.
 
-<b>4.. d. How will you organize and store the data?</b>
-<br>
-5.  How will you approach the analysis of your data? 
+<b>4.. d. How will you organize and store the data?</b><br>
+
+<b>5.  How will you approach the analysis of your data? </b><br>
+
+<b>6.  What will be the form of your final deliverable? How will you present your findings? </b><br>
+
+<b>7.  What challenges do you anticipate? </b><br>
 
 
 What will be the form of your final deliverable? How will you present your findings? 
-Anticipated formats are blog post or dashboard.
+Blog Post with d3 visualizations of word comments
 
 What challenges do you anticipate?
 (eg: Where might surprise challenges be lurking? Are their any weak points in your plan? Are you counting on something coming out statistically significant? Are you using something fuzzy like sentiment analysis to create sub-populations? Can you think of a failsafe? Something interesting to do or say if your "gamble" comes up bust?)
