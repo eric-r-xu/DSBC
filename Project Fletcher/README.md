@@ -26,27 +26,15 @@ Write a prioritized list of more specific sub-questions, if applicable, or an el
 10 cities.  Each restaurant will have an overall yelp rating and number of ratings as well as the top 5 positive comments and the top 5 negative comments.  Each comment will also have its own rating score.  Thus, I will have upwards to 47,600 restaurants in my dataset and upwards to 476,000 comments from all these restaurants combined.
 
 <b>4.. d. How will you organize and store the data?</b><br>
+I will store each restaurant's data (along with city, rating, reviews, etc.) as a document in a mongoDB collection.  These collections will be stored locally in a mongoDB database.
 
 <b>5.  How will you approach the analysis of your data? </b><br>
+I will use pairwise t-tests to test if a specific city has a significantly higher average rating of a particular ethnic cuisine.  I will do td-idf of the high and low restaurant comment words/phrases to find highly rated and lowly rated dishes and common highly rated and lowly rated comments of particular types of cuisine.
 
 <b>6.  What will be the form of your final deliverable? How will you present your findings? </b><br>
+Blog Post about top cities of a certain type of cuisine as well as number of those restaurants in that city (sampling bias!).  with a word cloud d3 visualization of most common words used to positively and negatively describe specific ethnic restaurants
 
 <b>7.  What challenges do you anticipate? </b><br>
+I anticipate that some cities may not have many (or any) of a certain type of ethnic restaurants.  If that is the case, I will either (a) take those ethnic restaurants out of all analyses or (b) combine certain types of ethnic restaurants or (c) take a percentile of the top restaurants of a particular ethnic cuisine in a city.
 
 
-What will be the form of your final deliverable? How will you present your findings? 
-Blog Post with d3 visualizations of word comments
-
-What challenges do you anticipate?
-(eg: Where might surprise challenges be lurking? Are their any weak points in your plan? Are you counting on something coming out statistically significant? Are you using something fuzzy like sentiment analysis to create sub-populations? Can you think of a failsafe? Something interesting to do or say if your "gamble" comes up bust?)
-
-
-
-Analysis:
-Start with logistic regression to see if the point streak relates to Stanley Cup outcome (1,0). If this is not interesting, do either linear regression or categorical regression with playoff outcome (numerical values for no playoffs, eliminated in first round, ..., Stanley cup loss, Stanley cup victory). If this is not interesting, ... not sure.
-
-Deliverable:
-The main event will be the cool d3 dashboard, but it will not make sense without some kind of post/description.
-
-Challenges:
-If nothing comes out statistically significant, I hope people like playing with the dashboard controls and seeing the outcomes change. Maybe I could look at additional statistics like strength of schedule or injuries to chase after significance a bit more, but if it is not close (sample size will be very small) I'll just focus on making the dashboard fun to play with.
