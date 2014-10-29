@@ -15,9 +15,11 @@ Write a prioritized list of more specific sub-questions, if applicable, or an el
 <br>Question breakdown:
 <br>Out of 119 different types of ethnic cuisine, what types of cuisines and dishes are rated the highest in the top 10 most populated cities in the U.S.?  What are common comments given to each type of cuisine and are there differences between cities?
 <br>
+
 <b>4a. What data will you use to address the question, from which source(s)?</b>
 <br>I will use restaurant data from yelp (www.yelp.com)
 <br>
+
 <b>4.. b. How will you acquire the data?</b>
 <br>I will acquire using the yelpAPI as well as scraping comments on yelp using Python's 'requests' package
 
