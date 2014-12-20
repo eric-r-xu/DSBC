@@ -1,2 +1,2 @@
-Data Science Boot Camp
+Metis Data Science
 ===========

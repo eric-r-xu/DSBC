@@ -1,0 +1,1 @@
+see blogpost at http://martialm0nk.blogspot.com/2014/12/maximizing-opening-weekend-sales-for.html
