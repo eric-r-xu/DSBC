@@ -1,2 +1,2 @@
-Metis Data Science
+Data Science Bootcamp (DSBC) @ Metis
 ===========
